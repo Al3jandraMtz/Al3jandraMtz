@@ -58,7 +58,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" height="50" />
 </a>
 
-- ![3](https://github.com/user-attachments/assets/34a2b57e-9f22-42c7-bd87-7fd535ae4b4f)
+![3](https://github.com/user-attachments/assets/34a2b57e-9f22-42c7-bd87-7fd535ae4b4f)
 
 
 
